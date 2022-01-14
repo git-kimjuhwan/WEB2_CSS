@@ -19,7 +19,14 @@ CSS
 
         HTML과 CSS가 만나는 법
 
-        
+
+         style 태그 html문법
+        h2{color:blue} 가 css 문법
+
+        <h1 style="color:red"> hello world </h1>
+        여기서 color:red 가 css 문법임.
+
+
 
 
 
