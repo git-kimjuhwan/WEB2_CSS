@@ -1,3 +1,9 @@
 # WEB2_CSS
-생활코딩/Egoing
-asdsada
+CSS
+
+-01/14  
+
+        github >< vscode 연동
+
+
+
