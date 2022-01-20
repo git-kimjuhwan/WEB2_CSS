@@ -146,6 +146,22 @@ CSS
 
 
 
+        font
+
+
+        font속성 정리
+        1. font-family : 글꼴 설정(사용자 컴퓨터에 글꼴이 없는 경우 대비 여러 개를 써주는게 좋다/
+        끝에 serif or sans-serif(장식 O or 장식 X)와 monospace(고정폭 or 가변폭)을 정해준다.
+        2. font-weight : 굵게와 같은 것을 설정
+        3. line-height : 문장 사이에 간격(px같이 절대적인 단위 사용 안하는게 좋다)
+        4. font : 위에 것들과 같은 것 한 번에 쓸 수 있는 속성(대신 순서 지키는 것이 좋다)
+
+
+
+
+
+
+
 
 
 
