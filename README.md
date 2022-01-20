@@ -127,6 +127,25 @@ CSS
 
 
 
+        
+
+
+
+        text-align
+
+
+        text-align의 4가지 속성값
+        1. left : 왼쪽 정렬
+        2. right : 오른쪽 정렬
+        3. center : 가운데 정렬
+        4. justify : 양쪽 정렬
+
+
+
+
+
+
+
 
 
 
