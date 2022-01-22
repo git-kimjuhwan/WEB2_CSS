@@ -211,9 +211,11 @@ CSS
         
         
         캐스케이딩
+        Style attribute -> id selector -> class selector -> tag selector 우선적인(구체적인) 태그 순서
+        우선순위가 낮아도 !important를 붙여주면 가장 우선적인 태그가 될 수 있음
 
 
-        
+
 
 
 
