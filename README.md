@@ -211,8 +211,46 @@ CSS
         
         
         캐스케이딩
-        Style attribute -> id selector -> class selector -> tag selector 우선적인(구체적인) 태그 순서
+        Style attribute -> id selector -> class selector -> tag selector 우선적인(구체적인) 태그 순서km
         우선순위가 낮아도 !important를 붙여주면 가장 우선적인 태그가 될 수 있음
+
+
+
+
+
+
+-01/23
+
+
+
+
+        인라인vs 블럭레벨
+
+        태그들 중 화면 전체를 차지하는(한 줄을 차지하는)태그는 블럭레벨 엘리먼트
+        화면 일부를 차지하는(딱 자기 크기만큼 차지하는)태그는 인라인 엘리먼트라고 한다.
+        각 태그마다 지정되있는 속성이 있는데 이것은 <style>태그에서 display속성을 바꿔주면 변경할 수 있다.
+
+
+
+        
+
+
+
+        박스모델
+
+
+        
+
+
+
+
+
+
+
+        
+
+
+
 
 
 
