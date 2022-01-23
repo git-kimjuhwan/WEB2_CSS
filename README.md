@@ -224,6 +224,12 @@ CSS
 
 
 
+
+        레이아웃
+
+
+
+
         인라인vs 블럭레벨
 
         태그들 중 화면 전체를 차지하는(한 줄을 차지하는)태그는 블럭레벨 엘리먼트
@@ -236,10 +242,40 @@ CSS
 
 
 
-        박스모델
+
+
+
+
+        박스 모델(box model)
+
+
+        각 태그들이 웹 페이지에 표현될 때
+        사각형의 형태(box)로 그 태그의 부피감을 결정한다
+
+        박스모델 관련 속성들
+        width, height, margin, padding, display, border ...
+
+        - margin : 태그와 태그 사이의 여백.
+        - padding : 태그와 내부 컨텐츠 사이의 여백
+        border: width style color; 순서로 값 지정
+        * inline element는 width, height 값이 무시된다.
+
+
 
 
         
+        
+        
+        
+        마진 겹침 현상
+
+
+
+
+
+
+
+
 
 
 
