@@ -291,6 +291,10 @@ CSS
 
         포지션
 
+
+
+        
+
         position 속성
 
         엘리먼트의 위치를 지정하는 방법 (static, relative, absolute, fixed)
