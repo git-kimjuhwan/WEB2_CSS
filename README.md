@@ -270,6 +270,60 @@ CSS
         마진 겹침 현상
 
 
+        
+        마진겹침현상 세 가지
+        1. 위,아래 엘리먼트들의 마진이 겹칠시 둘 중 마진이 큰게 둘 사이의 마진이 된다.
+        2. 위,아래 엘리먼트들의 마진이 겹치고, 한 엘리먼트의 시각적 요소가 없어지면, 시각적 요소가 없어진 엘리먼트 마진의 top-bottom과/ left-right은 큰값으로 합쳐져 계산된다.
+        3. 부모,자식 엘리먼트 사이에서 부모의 시각적 요소가 없어지면 부모,자식 마진 중 마진이 큰 쪽이 자식 마진처럼 사용된다.
+
+
+
+
+
+
+
+
+
+-01/24
+
+
+
+
+        포지션
+
+        position 속성
+
+        엘리먼트의 위치를 지정하는 방법 (static, relative, absolute, fixed)
+
+        position속성 미지정시 기본값은 static
+        static - 원래 있어야 되는 위치에 정적으로 위치함(offset 무시)
+                위치 설정이 되지 않은 상태
+
+        top, bottom, left, right(offset)을 적용하고 싶을 경우
+        position의 값을 static외의 값으로 지정해야 한다.
+        (bottom, right < top, left 적용)
+
+        *position을 지정해도 offset값을 지정하지 않을경우
+        static처럼 원래 있어야 할 위치에 있게된다
+
+        relative - 원래의 위치에서 상대적으로 위치를 변경
+
+        absolute - html element를 기준으로 절대적인 위치로 변경
+
+        **부모-자식 관계에 놓인 태그의 경우
+        1) 자식태그가 absolute인 경우 부모태그는 자신의 크기만 가진다.
+        이 때 자식태그는 block태그여도 inline태그처럼 컨텐츠만한 크기로 변한다.
+        width와 height 값을 지정하면 크기 변경이 가능하다.
+        (★fixed도 같은 효과)
+
+        2) 여러 부모태그 중 absolute인 자식태그는
+        position이 relative인 부모태그안에서 절대적으로 위치를 변경한다.
+
+        fixed - 화면의 위치에 고정시켜 스크롤으로부터 독립되게 한다.
+
+
+
+
 
 
 
