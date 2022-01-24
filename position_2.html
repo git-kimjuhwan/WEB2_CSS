@@ -2,20 +2,28 @@
 <html>
     <head>
         <style>
-            #parent,#other,#grand{
+            body{
+                padding-top: 30px;
+            }
+            #parent,#other{
                 border: 5px solid tomato;
 
             }
-            #grand{
-                position: relative;
+            #large{
+                height: 10000px;
+                background-color: tomato;
             }
+           
            
             #me{
                background-color: black;
                color: white;
-               position: absolute;
-               left: 0;
+               position: fixed;
+               right: 0;
                top: 0;
+               width: 100%;
+               height: 30px;
+               text-align: center;
             }
         </style>
         
@@ -23,13 +31,12 @@
     </head>
     <body>
         <div id="other">other</div>
-    <div id="grand">
-       grand
         <div id="parent">
            parent
            <div id="me">me</div>
         </div>
-    </div>
+        <div id="large">large</div>
+    
         
     
     </body>
