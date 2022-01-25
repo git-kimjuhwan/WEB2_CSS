@@ -362,6 +362,14 @@ CSS
 
         배경(backgraound)
 
+        background : 엘리먼트의 배경에 이미지나 색깔 등을 지정할 수 있는 속성
+        background-color : 색깔 지정 
+        background-image : 이미지 지정(배경이 투명한 이미지를 쓰면 color와 같이 쓸수있음)
+        background-repeat : 반복에 관한 설정
+        background -attachment : 스크롤 내릴 때 배경도 같이 내릴지 안내릴지
+        background-size : 크기에 관한 설정(cover, contain : 손실있어도 꽉차게, 꽉안차도 손실없게), background-position : 위치 결정
+        축약형:background:tomato url('run.png') no-repeat fixed center;
+
 
 
 
