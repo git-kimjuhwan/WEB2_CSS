@@ -373,10 +373,18 @@ CSS
         background -attachment : 스크롤 내릴 때 배경도 같이 내릴지 안내릴지
 
         background-size : 크기에 관한 설정(cover, contain : 손실있어도 꽉차게, 꽉안차도 손실없게)
-        
+
         background-position : 위치 결정
 
         축약형:background:tomato url('run.png') no-repeat fixed center;
+
+
+
+
+
+        Filter(필터)
+
+        filter : 기존에 포토샵 등을 통해서 이미지나 텍스트에 필터효과를 줬던 것을 코드화한 기능
 
 
 
