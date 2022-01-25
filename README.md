@@ -340,6 +340,36 @@ CSS
 
 
 
+-01/25
+
+
+
+
+
+        box-sizing
+
+
+        width값은 border 안의 element의 크기를 지정한다.
+        box-sizing: border-box; 명령을 내리면
+        width값은 border 테두리까지의 크기를 의미하게 된다.
+
+
+
+        그래픽 
+
+
+
+
+        배경(backgraound)
+
+
+
+
+
+
+
+
+
 
 
 
