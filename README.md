@@ -401,7 +401,14 @@ CSS
         혼합(blend)
 
 
-        
+        blend : 이미지와 이미지를 혼합하는 기능
+        - background-blend-mode : 배경과 배경(이미지, 색깔 등)을 혼합
+        * rgba(a는 투명도 0~1 지정), hover등과 조합 가능
+        - mix-blend-mode : 컨텐트와 배경을 혼합
+
+
+
+
 
 
 
