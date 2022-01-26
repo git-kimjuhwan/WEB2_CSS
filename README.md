@@ -409,6 +409,20 @@ CSS
 
 
 
+        
+        
+        
+        변형(transform)
+
+        transform : 엘리먼트 크기, 비틀기, 회전 등 포토샵에서 가능했던 작업들을 코드화한 기능
+        - 2차원, 3차원이 있다
+        - 여러 속성을 쓰고 싶으면 한 줄에 이어서 쓴다
+        - transform-origin : 중심축을 중앙이 아닌 곳으로 변경하고 transform한다
+        * 여러가지 transform library를 활용해보는 것도 좋다.
+
+
+
+
 
 
 
