@@ -426,6 +426,26 @@ CSS
 
 
 
+-01/27  
+
+
+
+
+
+        SGV
+
+        .svg : 벡터 이미지를 저장하는 포멧
+        - vector vs bitmap : 확대했을때 깨지지 않음 vs 깨짐(.svg , .png)
+
+
+
+       
+
+       전환(transition)
+
+       
+
+
 
 
 
