@@ -443,7 +443,15 @@ CSS
 
        전환(transition)
 
-       
+
+       transition : 장면 전환은 부드럽게 할 수 있는 기능
+        -property : 어떤 속성에 transiton을 적용할 것인지(all or 특정 속성(transform, font-size 등)
+        -duration : 몇 초에 걸쳐 전환할 것인지
+        transition : 위의 두 개의 속성의 축약형(transform 1s, font-size 2s 이렇게 두 개 나눠서 적용도 가능)
+        -delay : 처음에 시간차를 두고 전환
+        -timing-function : 장면전환속도를 균일하지 않게(ceaser 사이트 참고)
+
+
 
 
 
