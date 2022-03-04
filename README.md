@@ -539,6 +539,12 @@ CSS
         틀린거:<pre> 태그는 미리 정의된 형식(preformatted)의 텍스트를 정의할 때 사용합니다.
         
         font-family 글꼴을 설정하는 속성
+        text-align  텍스트의 정렬 방향
+        text-align: right; 오른쪽 정렬
+        text-align: left;   왼쪽 정렬
+
+
+        strong태그 심각함 긴급함 강조할때 사용(굵은 텍스트)
 
 
 
