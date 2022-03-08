@@ -579,6 +579,17 @@ CSS
         blink 글자를 반짝거리게 만듬
 
 
+        float는 해당 요소를 어떻게 정렬할지를 정의하는css속성이다.
+        float속성은 묶음태그만 적용할 수 있다.
+        묶음 태그:<div><p><ol><ul><table><img>등
+
+        float속성 사용법
+        
+        none  기본값 
+        left  왼쪽정렬
+        right 오른쪽 정렬
+
+
 
 
 
