@@ -619,6 +619,9 @@ CSS
         no-repeat : 반복되지 않고, 이미지가 한번만 나타난다.
         inherit
         
+
+
+        border 
         
 
 
