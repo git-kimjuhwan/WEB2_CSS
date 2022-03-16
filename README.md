@@ -607,6 +607,24 @@ CSS
 
 
 
+-03/16  
+
+        
+
+
+        background-repeat
+        배경 이미지가 수직과 수평으로 반복
+        repeat-x 수평으로 만 반복
+        repeat-y : 수직으로 만 반복
+        no-repeat : 반복되지 않고, 이미지가 한번만 나타난다.
+        inherit
+        
+        
+
+
+
+
+
 
 
 
